@@ -1,7 +1,19 @@
-#DSA in Python
+# DSA in Python
 
-This repository contains my daily DSA practise using python.
+This repository contains my daily Data Structures and Algorithms (DSA) practice using Python.
 
-Topics: Arrays, Strings, Linked lists, Stack, Queue, TREES, Binary search trees, Graphs, Heaps, Advanced structures, Recursion, Backtracking and Design level DSA.
+## 📌 Topics Covered
+- Arrays & Strings
+- Linked Lists
+- Stack & Queue
+- Trees & Binary Search Trees
+- Graphs
+- Heaps
+- Recursion & Backtracking
+- Advanced DSA Concepts
 
-Started : Jan 2026
+## 📅 Practice Timeline
+- Started: January 2026
+
+## 🎯 Goal
+To build strong problem-solving skills for coding interviews and internships.
