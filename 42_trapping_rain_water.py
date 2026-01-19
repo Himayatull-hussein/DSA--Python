@@ -15,5 +15,5 @@ while l<r:
         r-=1
         rightmax= max(rightmax, height[r])
         res+= rightmax- height[r] 
-
-    return result       
+ 
+return result       
