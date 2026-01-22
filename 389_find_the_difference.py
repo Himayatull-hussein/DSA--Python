@@ -3,4 +3,4 @@
 for i in s+t:
         x^= ord(i)
 
-return chr(x
+return chr(x)
